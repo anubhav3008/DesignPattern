@@ -1,5 +1,7 @@
 package Momentos;
 
+///Originator is the object of which state needs to be preserved. 
+// So, the state is preserved in the momento object
 public class Originator {
     private String state;
 

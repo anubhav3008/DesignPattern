@@ -1,6 +1,7 @@
 package Momentos;
 import java.util.*;
 
+//caretaker keeps track of the history
 public class Caretaker {
     private ArrayList<Momento> mementos = new ArrayList<>();
 
